@@ -91,7 +91,7 @@ export const config = {
         email: "shivanshajmera5@gmail.com",
         phone: "+91-7878729365",
         github: "https://github.com/accountnowe",
-        linkedin: "#"
+        linkedin: "https://github.com/accountnowe"
     },
     skills: {
         develop: {
