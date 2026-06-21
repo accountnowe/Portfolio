@@ -6,11 +6,13 @@ export const config = {
         description: "Hello, I am Shivansh — a Full-Stack Developer "
     },
     social: {
-        github: "shivanshajmera",
+        github: "https://github.com/accountnowe",
         email: "shivanshajmera5@gmail.com",
         phone: "+91-7878729365",
         location: "Jaipur, Rajasthan"
     },
+    
+    
     about: {
         title: "About Me",
         description: "Full-Stack Developer skilled in the MERN stack, building scalable web applications with React.js, Node.js, Express.js, and MongoDB. Experienced in developing responsive interfaces, RESTful APIs, performance optimization, and end-to-end application development. Strong problem-solving and software development skills."
@@ -88,8 +90,8 @@ export const config = {
     contact: {
         email: "shivanshajmera5@gmail.com",
         phone: "+91-7878729365",
-        github: "https://github.com/shivanshajmera",
-        linkedin: "https://www.linkedin.com/in/shivanshajmera"
+        github: "https://github.com/accountnowe",
+        linkedin: "#"
     },
     skills: {
         develop: {
