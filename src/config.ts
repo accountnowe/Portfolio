@@ -1,6 +1,6 @@
 export const config = {
     developer: {
-        name: "Shivansh ",
+        name: "Shivansh Ajmera ",
         fullName: "Shivansh Ajmera",
         title: "Full-Stack Developer",
         description: "Hello, I am Shivansh — a Full-Stack Developer "
